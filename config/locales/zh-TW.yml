@@ -1,0 +1,4 @@
+"zh-TW":
+  html_you_were_mentioned: " <strong>%{login}</strong> 在 <strong>%{created_on} 提及您.</strong>"
+  text_you_were_mentioned: " <strong>%{login}</strong> 在 <strong>%{created_on} 提及您.</strong> "
+  subject_you_were_mentioned: "有人提及您:"
